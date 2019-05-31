@@ -1,4 +1,4 @@
 {
-    "driver": "sqlite3",
-    "data_source": "/var/lib/cfss/certs.db"
+  "driver": "sqlite3",
+  "data_source": "/var/lib/cfssl/certs.db"
 }
